@@ -4,7 +4,7 @@
 - University Roll No.: 1900290210117
 - Branch: Electrical & Electronic Engineering
 - Section: B
-- Preferred Programming Language: Python
+- Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
 - LeetCode: [Prachi_Singh](https://leetcode.com/prachi58/)
